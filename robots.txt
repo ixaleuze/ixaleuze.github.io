@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ixaleuze.github.io/Imk/sitemap_index.txt
+Sitemap: https://ixaleuze.github.io/KYm/sitemap_index.txt
+Sitemap: https://ixaleuze.github.io/RjU/sitemap_index.txt
+Sitemap: https://ixaleuze.github.io/Tmv/sitemap_index.txt
